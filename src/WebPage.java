@@ -1,3 +1,4 @@
+new line
 import org.watij.webspec.dsl.WebSpec;
 
 public class WebPage {
